@@ -2,7 +2,7 @@
   "name": "sublime-monokai-plus",
   "displayName": "Sublime Monokai Plus",
   "description": "Sublime Monokai Plus theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.37.0"
   },

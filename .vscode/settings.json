@@ -1,0 +1,6 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": []
+  },
+  "cSpell.words": ["enummember", "readwrite", "sublimelinter"]
+}
